@@ -17,22 +17,21 @@ By using this code, you agree to act lawfully and ethically.
 
 
 
-
 <h1>PowerShell AMSI Bypass Module</h1>
 
 Date : 5/27/2025
 
-Purpose: Demonstrates a reflection-based technique to disable AMSI (Antimalware Scan Interface) in PowerShell 5.1 sessions.
+<h4>Purpose:</h4> 
+Demonstrates a reflection-based technique to disable AMSI (Antimalware Scan Interface) in PowerShell 5.1 sessions.
 
-Overview:
+<h4>Overview:</h4>
 This module temporarily bypasses AMSI (Antimalware Scan Interface) in Windows PowerShell 5.1 by 
 manipulating internal .NET components. AMSI is a security feature that scans scripts/memory for malicious content.
 
-
-Technical Breakdown
+<h1>Technical Breakdown</h1>
 Target: Modifies the amsiInitFailed flag in the System.Management.Automation.AmsiUtils class.
 
-Mechanism:
+<h4>Mechanism:</h4>
 
 1. Loads the PowerShell .NET assembly.
 
@@ -41,7 +40,7 @@ Mechanism:
 3. Tricks AMSI into believing initialization failed, disabling scans for the current session.
 
 
-exampleUsage.ps1 Description:
+<h4>exampleUsage.ps1 Description:</h4>
 
 This script bypasses AMSI (Antimalware Scan Interface) and logs keystrokes to keylog.txt. It demonstrates basic keylogging via Win32 API calls.
 
