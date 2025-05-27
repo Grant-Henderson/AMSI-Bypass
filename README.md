@@ -2,16 +2,17 @@
 ![image](https://github.com/user-attachments/assets/0a2e9604-e8c3-4719-8d23-25d74d232d8e)
 
 
-⚠️ WARNING ⚠️
+<h3>⚠️ WARNING ⚠️</h3>
+
 This script is for EDUCATIONAL/ETHICAL USE ONLY:
 
-🚫 Illegal Activity Prohibited: Using this code to bypass security measures or log keystrokes without explicit consent violates laws and ethical standards.
+Using this code to bypass security measures or log keystrokes without explicit consent violates laws and ethical standards.
 
-🔒 Authorized Use Only: Deploy only on systems you own or have written permission to test.
+Deploy only on systems you own or have written permission to test.
 
-⚠️ Risks: Antivirus/EDR tools may flag this as malware. Use in isolated labs, NOT production environments.
+Antivirus/EDR tools may flag this as malware. Use in isolated labs, NOT production environments.
 
-🛑 Liability: The author assumes no responsibility for misuse.
+The author assumes no responsibility for misuse.
 
 By using this code, you agree to act lawfully and ethically.
 
