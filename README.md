@@ -18,7 +18,7 @@ By using this code, you agree to act lawfully and ethically.
 
 
 
-<h1>PowerShell AMSI Bypass Module<h1>
+<h1>PowerShell AMSI Bypass Module</h1>
 
 Date : 5/27/2025
 
